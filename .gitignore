@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/myenv
+1.docx
+commands_linux.docx
+.~1.docx
+.~mmands_linux.docx
+followup.txt

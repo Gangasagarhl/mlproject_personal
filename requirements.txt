@@ -1,0 +1,7 @@
+numpy 
+pandas 
+seaborn
+
+-e .
+#When this is updated, need to run the requirement.txt again. 
+#so need to mae it automatic -e . enables in editablw way
