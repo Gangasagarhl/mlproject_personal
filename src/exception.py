@@ -43,7 +43,8 @@ When the exception is printed (print(CustomException(...))), Python calls __str_
 
 
 import sys
-import logging
+#import logging
+from src.logger import logging
 
 def error_message_detail(error,  error_details:sys):
     _,_,exec_tb =  error_details.exc_info()
